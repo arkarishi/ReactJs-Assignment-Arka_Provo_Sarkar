@@ -14,7 +14,7 @@ Watch the complete end-to-end screen recording to see the application in action:
   - Form validation with hardcoded credentials (`testuser` / `Test123`).
   - Stores local authentication state upon success.
   <br/>
-  <img src="/screenshots/login.png" alt="Login Screen" width="600"/>
+  <img src="./public/screenshots/login.png" alt="Login Screen" width="600"/>
 
 - **Screen 2: Employee Dashboard**
   - Fetches and displays data from the provided REST API.
@@ -22,9 +22,9 @@ Watch the complete end-to-end screen recording to see the application in action:
   - Interactive map integration plotting office locations using `react-leaflet`.
   - Responsive Top 10 Salaries Bar Chart rendered using `recharts`.
   <br/>
-  <img src="/screenshots/dashboard.png" alt="Dashboard Screen" width="600"/>
-  <img src="/screenshots/charts.png" alt="Charts View" width="600"/>
-  <img src="/screenshots/map.png" alt="Locations Map View" width="600"/>
+  <img src="./public/screenshots/dashboard.png" alt="Dashboard Screen" width="600"/>
+  <img src="./public/screenshots/charts.png" alt="Charts View" width="600"/>
+  <img src="./public/screenshots/map.png" alt="Locations Map View" width="600"/>
 
 - **Screen 3: Profile & Camera Integration**
   - Individual profile card with full details (Location, Ext, Salary, Start Date).
@@ -34,7 +34,7 @@ Watch the complete end-to-end screen recording to see the application in action:
   - Clean view to review the captured photo.
   - Easy options to retake the image or navigate back to the dashboard.
   <br/>
-  <img src="/screenshots/details_camera.png" alt="Photo Result Screen" width="600"/>
+  <img src="./public/screenshots/details_camera.png" alt="Photo Result Screen" width="600"/>
 
 ## 🚀 Technologies Used
 - **React.js (Vite)**
